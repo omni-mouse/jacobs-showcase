@@ -3,6 +3,8 @@ Description: Sketch for wireless tongue operated mouse.
 Date: May 2020
 */
 
+/* comment */
+
 #include <SoftwareSerial.h>  
 
 const int bluetoothTx = 4;    // TX pin of RN-42, Arduino D2 (configure as RX pin of Ard)
