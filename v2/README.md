@@ -1,1 +1,1 @@
-This iteration of omni does not include a mouthpiece. Instead, the joystick is mounted on a flexible aluminum wire, which can be adjusted so that the joystick is placed in front of the user's lips. The user can then 
+This iteration does not involve a mouthpiece. Instead, the joystick is mounted on a flexible aluminum wire, which can be adjusted so that the joystick is placed in front of the user's lips. This makes it more convenient for the user to move the joystick in and out of the mouth. 
