@@ -10,4 +10,4 @@ Further documentation: [[slides]](https://docs.google.com/presentation/d/1gqfWp7
 
 ### Version 2:
 
-<img src="v2/images/omni_v2.png" width = "350">
+<img src="v2/images/omni_v2.png" width = "330">
