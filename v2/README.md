@@ -6,5 +6,5 @@ Please refer to these [slides](https://docs.google.com/presentation/d/1gqfWp77rR
 
 <img src="images/omni_v2.png" width = "370">
 
-<img src="images/joystick.png" width = "500">
+<img src="images/joystick.png" width = "800">
 
