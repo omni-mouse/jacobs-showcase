@@ -10,4 +10,4 @@ Version 1:
 
 Version 2:
 
-<img src="v2/images/omni_v2.png" width = "300">
+<img src="v2/images/omni_v2.png" width = "370">
