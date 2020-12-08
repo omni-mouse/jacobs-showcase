@@ -6,7 +6,7 @@ Further documentation: [[slides]](https://docs.google.com/presentation/d/1gqfWp7
 
 ### Version 1:
 
-<img src="v1/images/mouthpiece.png" width = "410"> <img src="v1/images/electronics.png" width = "420">
+<img src="v1/images/mouthpiece.png" width = "410"> <img src="v1/images/electronics.png" width = "430">
 
 ### Version 2:
 
