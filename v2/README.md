@@ -4,8 +4,7 @@ In this iteration, the joystick is placed in front of the lips using a flexible 
 
 Please refer to these [slides](https://docs.google.com/presentation/d/1gqfWp77rRQ_fnIK2S10crAoqV5gvX4WOMWYWn-EFgvU/edit?usp=sharing) for more images.
 
-<img src="v2/images/omni_v2.png" width = "370">
+<img src="images/omni_v2.png" width = "370">
 
-
-<img src="v2/images/joystick.png" width = "370">
+<img src="images/joystick.png" width = "370">
 
