@@ -10,10 +10,10 @@ Please refer to these [slides](https://docs.google.com/presentation/d/1gqfWp77rR
 
 ### Joystick:
 
-<img src="images/joystick.png" width = "800">
+<img src="images/joystick.png" width = "700">
 
 ### User interface:
 
-<img src="images/user_interface.png" width = "800">
+<img src="images/user_interface.png" width = "700">
 
 
