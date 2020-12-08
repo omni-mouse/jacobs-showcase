@@ -6,8 +6,8 @@ Further documentation: [[slides]](https://docs.google.com/presentation/d/1gqfWp7
 
 ### Version 1:
 
-<img src="v1/images/mouthpiece.png" width = "390"> <img src="v1/images/electronics.png" width = "420">
+<img src="v1/images/mouthpiece.png" width = "390"> <img src="v1/images/electronics.png" width = "415">
 
 ### Version 2:
 
-<img src="v2/images/omni_v2.png" width = "370">
+<img src="v2/images/omni_v2.png" width = "350">
